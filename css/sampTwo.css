@@ -277,6 +277,9 @@ ul li a {
  .heroPara{
   top: 60%
  }
+.herotext-overlay::after{
+bottom: 200px	
+}
  .myCards{
 	padding-left:0;
 	
