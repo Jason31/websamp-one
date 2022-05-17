@@ -54,7 +54,7 @@ min-height: 100vh;
   margin-bottom: 25px;
   padding-top: 20px;
   color: whitesmoke;
-  font-size: 1em;
+  font-size: 1.2vw;
   font-family: verdana;
   text-align: center;
 	
@@ -70,11 +70,11 @@ min-height: 100vh;
   height: 100%;
 }
 .hero-bg{
-	background-image:url('../images/cta-bg.jpg');
+    background-image:url('../images/cta-bg.jpg');
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
-	height: 600px;
+    height: 600px;
 
 }
 .middleOne, .middleTwo{
