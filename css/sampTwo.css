@@ -328,8 +328,9 @@ ul li a {
 	padding-left:0;
 	
  }
-.image{
-width:80%;
+#container{
+width:85%;
+margin: 0 auto;
 }
  .card-1, .card-2, .card-3{
 	width: 100%;
