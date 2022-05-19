@@ -304,7 +304,8 @@ ul li a {
 	gap:;
 	}
  #container{
-	width: 100%;	
+	width: 85%;
+margin: 0 auto;
  }
  .hero-bg{
 	 height: 400px;
@@ -319,18 +320,14 @@ ul li a {
  .herotext-overlay::after{
 	bottom: 167px;
 	left: 48px;
-	border: 6px solid red;
+	border-bottom: 6px solid red;
  }
  .heroPara{
   top: 60%
  }
  .myCards{
 	padding-left:0;
-	
- }
-#container{
-width:85%;
-margin: 0 auto;
+
 }
  .card-1, .card-2, .card-3{
 	width: 100%;
