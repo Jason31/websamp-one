@@ -222,7 +222,7 @@ grid-area: 2 / 3 / 3 / 4;
 	
 }
 .footer{
-	background:red;
+	background: gainsboro;
 	border-top: 0.5px solid lightgray;
 	display: flex;
 	justify-content: space-around;
