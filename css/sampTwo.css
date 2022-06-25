@@ -305,7 +305,7 @@ ul li a {
 }
 /*--- Small devices (landscape phones, 594px and less) -------- */
 
-@media screen and (max-width: 594px){
+@media screen and (max-width: 798px){
  .myCards,.middleOne, .middleTwo, .footer, .copyright{
 	display: flex;
 	flex-direction: column;
